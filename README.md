@@ -29,44 +29,52 @@ Passionate about building modern web applications, AI-powered tools, and respons
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="assets/icons/html5.svg" width="60">
-  <img src="assets/icons/css3.svg" width="60">
-  <img src="assets/icons/javascript.svg" width="60">
-  <img src="assets/icons/tailwind.svg" width="60">
+  <img src="./SVG%20ICON/html5.svg" width="60">
+  <img src="./SVG%20ICON/css3.svg" width="60">
+  <img src="./SVG%20ICON/javascript.svg" width="60">
+  <img src="./SVG%20ICON/tailwind.svg" width="60">
 </p>
 
 ### ⚙️ Development
 
 <p align="center">
-  <img src="assets/icons/git-scm-icon.svg" width="60">
-  <img src="assets/icons/vscode.svg" width="60">
-  <img src="assets/icons/cursor.svg" width="60">
-  <img src="assets/icons/chrome.svg" width="60">
+  <img src="./SVG%20ICON/git-scm-icon.svg" width="60">
+  <img src="./SVG%20ICON/vscode.svg" width="60">
+  <img src="./SVG%20ICON/cursor.svg" width="60">
+  <img src="./SVG%20ICON/chrome.svg" width="60">
 </p>
 
 ### 🤖 AI Tools
 
 <p align="center">
   <img src="./SVG%20ICON/ChatGPT-Logo.svg" width="60">
-  <img src="assets/icons/claude-ai.svg" width="60">
-  <img src="assets/icons/google-gemini.svg" width="60">
-  <img src="assets/icons/grok.svg" width="60">
-  <img src="assets/icons/Suno.svg" width="60">
+  <img src="./SVG%20ICON/claude-ai.svg" width="60">
+  <img src="./SVG%20ICON/google-gemini.svg" width="60">
+  <img src="./SVG%20ICON/grok.svg" width="60">
+  <img src="./SVG%20ICON/Suno.svg" width="60">
 </p>
 
 ### 🎨 Creative Tools
 
 <p align="center">
-  <img src="assets/icons/Figma.svg" width="60">
-  <img src="assets/icons/canva-icon.svg" width="60">
+  <img src="./SVG%20ICON/Figma.svg" width="60">
+  <img src="./SVG%20ICON/canva-icon.svg" width="60">
 </p>
 
 ### 🧰 Productivity
 
 <p align="center">
-  <img src="assets/icons/microsoft-office.svg" width="60">
-  <img src="assets/icons/discord.svg" width="60">
-  <img src="assets/icons/trello-icon.svg" width="60">
+  <img src="./SVG%20ICON/microsoft-office.svg" width="60">
+  <img src="./SVG%20ICON/discord.svg" width="60">
+  <img src="./SVG%20ICON/trello-icon.svg" width="60">
+</p>
+
+### ☁️ Platforms
+
+<p align="center">
+  <img src="./SVG%20ICON/netlify.svg" width="60">
+  <img src="./SVG%20ICON/upwork.svg" width="60">
+  <img src="./SVG%20ICON/zendesk.svg" width="60">
 </p>
 
 ---
