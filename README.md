@@ -173,6 +173,11 @@ JavaScript • Chrome Extension API
 
 <tr>
 
+</tr>
+
+</table>
+
+---
 
 ⭐ Thanks for visiting my profile!
 
