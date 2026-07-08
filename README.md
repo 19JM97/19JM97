@@ -177,18 +177,6 @@ JavaScript • Chrome Extension API
 
 <img src="https://img.icons8.com/color/96/image.png" width="90">
 
-### 🔧 FixMorph
-
-AI-assisted image enhancement and restoration project.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript • AI Workflow
-
-</td>
-
-</tr>
-
 </table>
   <img src="./SVG%20ICON/netlify.svg" width="60" alt="Netlify">
   <img src="./SVG%20ICON/upwork.svg" width="60" alt="Upwork">
