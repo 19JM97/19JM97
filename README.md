@@ -38,16 +38,16 @@ Passionate about building modern web applications, AI-powered tools, and respons
   <img src="./SVG%20ICON/tailwind.svg" width="60" alt="Tailwind CSS">
 </p>
 
-<!-- Development -->
 <p align="center">
+<b>Development Tools</b><br><br>
   <img src="./SVG%20ICON/git-scm-icon.svg" width="60" alt="Git">
   <img src="./SVG%20ICON/vscode.svg" width="60" alt="VS Code">
   <img src="./SVG%20ICON/cursor.svg" width="60" alt="Cursor">
   <img src="./SVG%20ICON/chrome.svg" width="60" alt="Chrome">
 </p>
 
-<!-- AI Tools -->
 <p align="center">
+<b>AI Tools</b><br><br>
   <img src="./SVG%20ICON/ChatGPT-Logo.svg" width="60" alt="ChatGPT">
   <img src="./SVG%20ICON/claude-ai.svg" width="60" alt="Claude">
   <img src="./SVG%20ICON/google-gemini.svg" width="60" alt="Gemini">
@@ -55,21 +55,21 @@ Passionate about building modern web applications, AI-powered tools, and respons
   <img src="./SVG%20ICON/Suno.svg" width="60" alt="Suno">
 </p>
 
-<!-- Creative -->
 <p align="center">
+<b>Design Tools</b><br><br>
   <img src="./SVG%20ICON/Figma.svg" width="60" alt="Figma">
   <img src="./SVG%20ICON/canva-icon.svg" width="60" alt="Canva">
 </p>
 
-<!-- Productivity -->
 <p align="center">
+<b>Productivity</b><br><br>
   <img src="./SVG%20ICON/microsoft-office.svg" width="60" alt="Microsoft Office">
   <img src="./SVG%20ICON/discord.svg" width="60" alt="Discord">
   <img src="./SVG%20ICON/trello-icon.svg" width="60" alt="Trello">
 </p>
 
-<!-- Platforms -->
 <p align="center">
+<b>Platforms</b><br><br>
   <img src="./SVG%20ICON/netlify.svg" width="60" alt="Netlify">
   <img src="./SVG%20ICON/upwork.svg" width="60" alt="Upwork">
   <img src="./SVG%20ICON/zendesk.svg" width="60" alt="Zendesk">
