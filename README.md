@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm John Mark Razon</h1>
+<h1 align="center">
+Hi 👋, I'm <span style="color:#00C4FF;">Mark Razon</span>
+</h1>
 
 <h3 align="center">
-Technical Support & AI-Assisted Builder
+Frontend Developer • UI/UX Designer • AI Enthusiast
 </h3>
 
 <p align="center">
-Building practical solutions through AI, automation, and modern web technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI%2FUX+Designer;AI+Enthusiast;Building+Practical+Solutions;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=38E8D8&center=true&vCenter=true&width=900&lines=Technical+Support+%26+AI-Assisted+Builder;Frontend+Web+Developer;Chrome+Extension+Developer;AI+Workflow+Enthusiast;Always+Learning+New+Technologies" />
+Passionate about building modern web applications, AI-powered tools, and responsive user experiences that solve real-world problems.
 </p>
 
 ---
