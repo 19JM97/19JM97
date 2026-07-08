@@ -26,30 +26,51 @@ Building practical solutions through AI, automation, and modern web technologies
 
 ### 🌐 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+<p align="center">
+  <img src="assets/icons/html5.svg" width="60">
+  <img src="assets/icons/css3.svg" width="60">
+  <img src="assets/icons/javascript.svg" width="60">
+  <img src="assets/icons/tailwind.svg" width="60">
 </p>
 
 ### ⚙️ Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://cdn.simpleicons.org/googlechrome" width="48" alt="Google Chrome"/>
+<p align="center">
+  <img src="assets/icons/git-scm-icon.svg" width="60">
+  <img src="assets/icons/vscode.svg" width="60">
+  <img src="assets/icons/cursor.svg" width="60">
+  <img src="assets/icons/chrome.svg" width="60">
 </p>
 
 ### 🤖 AI Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<p align="center">
+  <img src="assets/icons/ChatGPT-Logo.svg" width="60">
+  <img src="assets/icons/claude-ai.svg" width="60">
+  <img src="assets/icons/google-gemini.svg" width="60">
+  <img src="assets/icons/grok.svg" width="60">
+  <img src="assets/icons/Suno.svg" width="60">
 </p>
 
-### 🛠️ Productivity
+### 🎨 Creative Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=discord,trello" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="48"/>
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<p align="center">
+  <img src="assets/icons/Figma.svg" width="60">
+  <img src="assets/icons/canva-icon.svg" width="60">
+</p>
+
+### 🧰 Productivity
+
+<p align="center">
+  <img src="assets/icons/microsoft-office.svg" width="60">
+  <img src="assets/icons/discord.svg" width="60">
+  <img src="assets/icons/trello-icon.svg" width="60">
+</p>
+
+### ☁️ Platforms
+
+<p align="center">
+  <img src="assets/icons/netlify.svg" width="60">
+  <img src="assets/icons/upwork.svg" width="60">
+  <img src="assets/icons/zendesk.svg" width="60">
 </p>
