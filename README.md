@@ -74,76 +74,122 @@ Passionate about building modern web applications, AI-powered tools, and respons
 
 # 🚀 Featured Projects
 
-## 🔐 SecureNote Hub
+<table>
+<tr>
 
-A privacy-focused note management application designed with a modern interface and secure user experience.
+<td width="50%" valign="top" align="center">
 
-**Built with:**
+<img src="PROJECT%20LOGOS/SECNOTE-LOGO.png" width="120">
 
-HTML • CSS • JavaScript
+### 🔐 SecureNote Hub
 
----
+Privacy-focused encrypted note management application with modern UI and offline-first architecture.
 
-## 🖼️ PixMorph
+**Tech Stack**
 
-A modern image transformation and optimization tool focused on improving image workflows with a clean user interface.
+HTML • CSS • JavaScript • Web Crypto API
 
-**Built with:**
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="PROJECT%20LOGOS/Pixmorph-logo.png" width="120">
+
+### 🖼️ PixMorph
+
+Modern image transformation and optimization tool with AI-assisted workflow.
+
+**Tech Stack**
 
 HTML • CSS • JavaScript • Canvas API
 
----
+</td>
 
-## 👤 Facet
+</tr>
 
-An AI-assisted project focused on intelligent visual interaction and modern web experience.
+<tr>
 
-**Built with:**
+<td width="50%" valign="top" align="center">
 
-Web Technologies • AI Tools
+<img src="PROJECT%20LOGOS/Facet-logo.png" width="120">
 
----
+### 👤 Facet
 
-## 🔧 FixMorph
+AI-assisted facial recognition and intelligent visual interaction project.
 
-An image enhancement and transformation project exploring AI-assisted creative workflows.
+**Tech Stack**
 
-**Built with:**
+HTML • CSS • JavaScript • AI
 
-Frontend Technologies • AI Workflow
+</td>
 
----
+<td width="50%" valign="top" align="center">
 
-## 🏢 Presenca
+<img src="PROJECT%20LOGOS/Presenca-logo.png" width="120">
 
-A modern attendance and presence management system designed for efficient tracking and organization.
+### 🏢 Presenca
 
-**Built with:**
+Attendance and presence management system with clean dashboard interface.
 
-HTML • CSS • JavaScript
-
----
-
-## 🌐 Personal Portfolio
-
-A futuristic portfolio website showcasing technical support experience, AI-assisted development, and web projects.
-
-**Built with:**
+**Tech Stack**
 
 HTML • CSS • JavaScript
 
----
+</td>
 
-## 🛡️ JMR Ultra AdsBlocker
+</tr>
 
-A browser extension designed to improve browsing experience by reducing unwanted advertisements.
+<tr>
 
-**Built with:**
+<td width="50%" valign="top" align="center">
 
-Chrome Extension API • JavaScript
-### ☁️ Platforms
+<img src="https://img.icons8.com/fluency/96/portfolio.png" width="90">
 
-<p align="center">
+### 🌐 Personal Portfolio
+
+Modern cyber-inspired portfolio showcasing frontend and AI development projects.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.icons8.com/color/96/chrome.png" width="90">
+
+### 🛡️ JMR Ultra AdsBlocker
+
+Chrome Extension that improves browsing experience by blocking intrusive advertisements.
+
+**Tech Stack**
+
+JavaScript • Chrome Extension API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<img src="https://img.icons8.com/color/96/image.png" width="90">
+
+### 🔧 FixMorph
+
+AI-assisted image enhancement and restoration project.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • AI Workflow
+
+</td>
+
+</tr>
+
+</table>
   <img src="./SVG%20ICON/netlify.svg" width="60" alt="Netlify">
   <img src="./SVG%20ICON/upwork.svg" width="60" alt="Upwork">
   <img src="./SVG%20ICON/zendesk.svg" width="60" alt="Zendesk">
