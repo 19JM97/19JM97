@@ -40,16 +40,16 @@ Building practical solutions through AI, automation, and modern web technologies
 ### 🤖 AI Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai" width="48" alt="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/anthropic" width="48" alt="Anthropic"/>
-  <img src="https://cdn.simpleicons.org/googlegemini" width="48" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ### 🛠️ Productivity
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=discord,trello" />
-  <img src="https://cdn.simpleicons.org/googledrive" width="48" alt="Google Drive"/>
-  <img src="https://cdn.simpleicons.org/google" width="48" alt="Google Workspace"/>
-  <img src="https://cdn.simpleicons.org/microsoftoffice" width="48" alt="Microsoft Office"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="48"/>
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 </p>
