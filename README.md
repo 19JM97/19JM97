@@ -69,6 +69,77 @@ Passionate about building modern web applications, AI-powered tools, and respons
   <img src="assets/icons/trello-icon.svg" width="60">
 </p>
 
+---
+
+# 🚀 Featured Projects
+
+## 🔐 SecureNote Hub
+
+A privacy-focused note management application designed with a modern interface and secure user experience.
+
+**Built with:**
+
+HTML • CSS • JavaScript
+
+---
+
+## 🖼️ PixMorph
+
+A modern image transformation and optimization tool focused on improving image workflows with a clean user interface.
+
+**Built with:**
+
+HTML • CSS • JavaScript • Canvas API
+
+---
+
+## 👤 Facet
+
+An AI-assisted project focused on intelligent visual interaction and modern web experience.
+
+**Built with:**
+
+Web Technologies • AI Tools
+
+---
+
+## 🔧 FixMorph
+
+An image enhancement and transformation project exploring AI-assisted creative workflows.
+
+**Built with:**
+
+Frontend Technologies • AI Workflow
+
+---
+
+## 🏢 Presenca
+
+A modern attendance and presence management system designed for efficient tracking and organization.
+
+**Built with:**
+
+HTML • CSS • JavaScript
+
+---
+
+## 🌐 Personal Portfolio
+
+A futuristic portfolio website showcasing technical support experience, AI-assisted development, and web projects.
+
+**Built with:**
+
+HTML • CSS • JavaScript
+
+---
+
+## 🛡️ JMR Ultra AdsBlocker
+
+A browser extension designed to improve browsing experience by reducing unwanted advertisements.
+
+**Built with:**
+
+Chrome Extension API • JavaScript
 ### ☁️ Platforms
 
 <p align="center">
