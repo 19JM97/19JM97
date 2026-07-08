@@ -26,57 +26,50 @@ Passionate about building modern web applications, AI-powered tools, and respons
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-
+<!-- Frontend -->
 <p align="center">
-  <img src="./SVG%20ICON/html5.svg" width="60">
-  <img src="./SVG%20ICON/css3.svg" width="60">
-  <img src="./SVG%20ICON/javascript.svg" width="60">
-  <img src="./SVG%20ICON/tailwind.svg" width="60">
+  <img src="./SVG%20ICON/html5-icon.svg" width="60" alt="HTML5">
+  <img src="./SVG%20ICON/CSS3_logo.svg" width="60" alt="CSS3">
+  <img src="./SVG%20ICON/javascript.svg" width="60" alt="JavaScript">
+  <img src="./SVG%20ICON/tailwind.svg" width="60" alt="Tailwind CSS">
 </p>
 
-### ⚙️ Development
-
+<!-- Development -->
 <p align="center">
-  <img src="./SVG%20ICON/git-scm-icon.svg" width="60">
-  <img src="./SVG%20ICON/vscode.svg" width="60">
-  <img src="./SVG%20ICON/cursor.svg" width="60">
-  <img src="./SVG%20ICON/chrome.svg" width="60">
+  <img src="./SVG%20ICON/git-scm-icon.svg" width="60" alt="Git">
+  <img src="./SVG%20ICON/vscode.svg" width="60" alt="VS Code">
+  <img src="./SVG%20ICON/cursor.svg" width="60" alt="Cursor">
+  <img src="./SVG%20ICON/chrome.svg" width="60" alt="Chrome">
 </p>
 
-### 🤖 AI Tools
-
+<!-- AI Tools -->
 <p align="center">
-  <img src="./SVG%20ICON/ChatGPT-Logo.svg" width="60">
-  <img src="./SVG%20ICON/claude-ai.svg" width="60">
-  <img src="./SVG%20ICON/google-gemini.svg" width="60">
-  <img src="./SVG%20ICON/grok.svg" width="60">
-  <img src="./SVG%20ICON/Suno.svg" width="60">
+  <img src="./SVG%20ICON/ChatGPT-Logo.svg" width="60" alt="ChatGPT">
+  <img src="./SVG%20ICON/claude-ai.svg" width="60" alt="Claude">
+  <img src="./SVG%20ICON/google-gemini.svg" width="60" alt="Gemini">
+  <img src="./SVG%20ICON/grok.svg" width="60" alt="Grok">
+  <img src="./SVG%20ICON/Suno.svg" width="60" alt="Suno">
 </p>
 
-### 🎨 Creative Tools
-
+<!-- Creative -->
 <p align="center">
-  <img src="./SVG%20ICON/Figma.svg" width="60">
-  <img src="./SVG%20ICON/canva-icon.svg" width="60">
+  <img src="./SVG%20ICON/Figma.svg" width="60" alt="Figma">
+  <img src="./SVG%20ICON/canva-icon.svg" width="60" alt="Canva">
 </p>
 
-### 🧰 Productivity
-
+<!-- Productivity -->
 <p align="center">
-  <img src="./SVG%20ICON/microsoft-office.svg" width="60">
-  <img src="./SVG%20ICON/discord.svg" width="60">
-  <img src="./SVG%20ICON/trello-icon.svg" width="60">
+  <img src="./SVG%20ICON/microsoft-office.svg" width="60" alt="Microsoft Office">
+  <img src="./SVG%20ICON/discord.svg" width="60" alt="Discord">
+  <img src="./SVG%20ICON/trello-icon.svg" width="60" alt="Trello">
 </p>
 
-### ☁️ Platforms
-
+<!-- Platforms -->
 <p align="center">
-  <img src="./SVG%20ICON/netlify.svg" width="60">
-  <img src="./SVG%20ICON/upwork.svg" width="60">
-  <img src="./SVG%20ICON/zendesk.svg" width="60">
+  <img src="./SVG%20ICON/netlify.svg" width="60" alt="Netlify">
+  <img src="./SVG%20ICON/upwork.svg" width="60" alt="Upwork">
+  <img src="./SVG%20ICON/zendesk.svg" width="60" alt="Zendesk">
 </p>
-
 ---
 
 # 🚀 Featured Projects
