@@ -175,8 +175,6 @@ JavaScript • Chrome Extension API
 
 <td colspan="2" align="center">
 
-<img src="https://img.icons8.com/color/96/image.png" width="90">
-
 </table>
   <img src="./SVG%20ICON/netlify.svg" width="60" alt="Netlify">
   <img src="./SVG%20ICON/upwork.svg" width="60" alt="Upwork">
