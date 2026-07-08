@@ -30,8 +30,8 @@ Passionate about building modern web applications, AI-powered tools, and respons
 
 ## 🛠️ Tech Stack
 
-<!-- Frontend -->
 <p align="center">
+<b>Frontend</b><br><br>
   <img src="./SVG%20ICON/html5-icon.svg" width="60" alt="HTML5">
   <img src="./SVG%20ICON/CSS3_logo.svg" width="60" alt="CSS3">
   <img src="./SVG%20ICON/javascript.svg" width="60" alt="JavaScript">
