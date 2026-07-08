@@ -41,6 +41,7 @@ Passionate about building modern web applications, AI-powered tools, and respons
 <p align="center">
 <b>Development Tools</b><br><br>
   <img src="./SVG%20ICON/git-scm-icon.svg" width="60" alt="Git">
+  <img src="./SVG%20ICON/github.svg" width="60" alt="GitHub">
   <img src="./SVG%20ICON/vscode.svg" width="60" alt="VS Code">
   <img src="./SVG%20ICON/cursor.svg" width="60" alt="Cursor">
   <img src="./SVG%20ICON/chrome.svg" width="60" alt="Chrome">
