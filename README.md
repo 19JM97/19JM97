@@ -47,7 +47,7 @@ Passionate about building modern web applications, AI-powered tools, and respons
 ### 🤖 AI Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/19JM97/19JM97/main/SVG%20ICON/ChatGPT-Logo.svg" width="60">
+  <img src="./SVG%20ICON/ChatGPT-Logo.svg" width="60">
   <img src="assets/icons/claude-ai.svg" width="60">
   <img src="assets/icons/google-gemini.svg" width="60">
   <img src="assets/icons/grok.svg" width="60">
