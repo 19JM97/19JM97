@@ -144,11 +144,10 @@ Chrome Extension API • JavaScript
 ### ☁️ Platforms
 
 <p align="center">
-  <img src="assets/icons/netlify.svg" width="60">
-  <img src="assets/icons/upwork.svg" width="60">
-  <img src="assets/icons/zendesk.svg" width="60">
+  <img src="./SVG%20ICON/netlify.svg" width="60" alt="Netlify">
+  <img src="./SVG%20ICON/upwork.svg" width="60" alt="Upwork">
+  <img src="./SVG%20ICON/zendesk.svg" width="60" alt="Zendesk">
 </p>
-
 
 ⭐ Thanks for visiting my profile!
 
