@@ -18,11 +18,15 @@ Passionate about building modern web applications, AI-powered tools, and respons
 
 ## 👨‍💻 About Me
 
-- 💼 Technical Support professional with experience solving technical issues and assisting users.
-- 🤖 Passionate about AI-assisted development and workflow automation.
-- 🌐 Building responsive websites and Chrome extensions.
-- 🚀 Continuously learning modern frontend technologies and AI tools.
-- 🎯 Focused on creating practical solutions that improve productivity.
+💼 Frontend Developer with a background in Technical Support and customer-focused problem solving.
+
+🌐 Passionate about building responsive web applications, Chrome extensions, and modern user interfaces.
+
+🤖 Leveraging AI tools to accelerate development, improve productivity, and streamline workflows.
+
+🚀 Continuously learning modern web technologies, UI/UX design, and software engineering best practices.
+
+🎯 Dedicated to creating practical, secure, and user-friendly digital solutions.
 
 ## 🛠️ Tech Stack
 
@@ -83,7 +87,7 @@ Passionate about building modern web applications, AI-powered tools, and respons
 
 ### 🔐 SecureNote Hub
 
-Privacy-focused encrypted note management application with modern UI and offline-first architecture.
+Privacy-first secure note application with AES-256 encryption, offline storage, and a clean modern interface for protecting sensitive information.
 
 **Tech Stack**
 
@@ -97,7 +101,7 @@ HTML • CSS • JavaScript • Web Crypto API
 
 ### 🖼️ PixMorph
 
-Modern image transformation and optimization tool with AI-assisted workflow.
+Modern image editing and optimization tool featuring compression, resizing, format conversion, and AI-assisted workflow enhancements.
 
 **Tech Stack**
 
@@ -115,11 +119,11 @@ HTML • CSS • JavaScript • Canvas API
 
 ### 👤 Facet
 
-AI-assisted facial recognition and intelligent visual interaction project.
+Secure password generator designed to create strong, customizable passwords with a fast, clean, and user-friendly experience.
 
 **Tech Stack**
 
-HTML • CSS • JavaScript • AI
+HTML • CSS • JavaScript
 
 </td>
 
@@ -129,7 +133,7 @@ HTML • CSS • JavaScript • AI
 
 ### 🏢 Presenca
 
-Attendance and presence management system with clean dashboard interface.
+QR code-based attendance management system featuring employee tracking, reports, analytics, and an easy-to-use administrative dashboard.
 
 **Tech Stack**
 
@@ -147,7 +151,7 @@ HTML • CSS • JavaScript
 
 ### 🌐 Personal Portfolio
 
-Modern cyber-inspired portfolio showcasing frontend and AI development projects.
+Personal portfolio highlighting frontend development, UI/UX design, and AI-powered web projects with a modern responsive design.
 
 **Tech Stack**
 
@@ -161,7 +165,7 @@ HTML • CSS • JavaScript
 
 ### 🛡️ JMR Ultra AdsBlocker
 
-Chrome Extension that improves browsing experience by blocking intrusive advertisements.
+Lightweight Chrome extension that enhances the browsing experience by blocking intrusive ads and improving page performance.
 
 **Tech Stack**
 
