@@ -147,3 +147,8 @@ Chrome Extension API • JavaScript
   <img src="assets/icons/upwork.svg" width="60">
   <img src="assets/icons/zendesk.svg" width="60">
 </p>
+
+
+⭐ Thanks for visiting my profile!
+
+Let's build something amazing together.
