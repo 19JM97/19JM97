@@ -173,6 +173,7 @@ JavaScript • Chrome Extension API
 
 <tr>
 
+
 ⭐ Thanks for visiting my profile!
 
 Let's build something amazing together.
