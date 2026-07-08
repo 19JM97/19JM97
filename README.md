@@ -85,7 +85,7 @@ Passionate about building modern web applications, AI-powered tools, and respons
 
 <img src="PROJECT%20LOGOS/SECNOTE-LOGO.png" width="120">
 
-### 🔐 SecureNote Hub
+### SecureNote Hub
 
 Privacy-first secure note application with AES-256 encryption, offline storage, and a clean modern interface for protecting sensitive information.
 
@@ -99,7 +99,7 @@ HTML • CSS • JavaScript • Web Crypto API
 
 <img src="PROJECT%20LOGOS/Pixmorph-logo.png" width="120">
 
-### 🖼️ PixMorph
+### PixMorph
 
 Modern image editing and optimization tool featuring compression, resizing, format conversion, and AI-assisted workflow enhancements.
 
@@ -117,7 +117,7 @@ HTML • CSS • JavaScript • Canvas API
 
 <img src="PROJECT%20LOGOS/Facet-logo.png" width="120">
 
-### 👤 Facet
+### Facet
 
 Secure password generator designed to create strong, customizable passwords with a fast, clean, and user-friendly experience.
 
@@ -131,7 +131,7 @@ HTML • CSS • JavaScript
 
 <img src="PROJECT%20LOGOS/Presenca-logo.png" width="120">
 
-### 🏢 Presenca
+### Presenca
 
 QR code-based attendance management system featuring employee tracking, reports, analytics, and an easy-to-use administrative dashboard.
 
@@ -149,7 +149,7 @@ HTML • CSS • JavaScript
 
 <img src="https://img.icons8.com/fluency/96/portfolio.png" width="90">
 
-### 🌐 Personal Portfolio
+### Personal Portfolio
 
 Personal portfolio highlighting frontend development, UI/UX design, and AI-powered web projects with a modern responsive design.
 
@@ -163,7 +163,7 @@ HTML • CSS • JavaScript
 
 <img src="https://img.icons8.com/color/96/chrome.png" width="90">
 
-### 🛡️ JMR Ultra AdsBlocker
+### JMR Ultra AdsBlocker
 
 Lightweight Chrome extension that enhances the browsing experience by blocking intrusive ads and improving page performance.
 
