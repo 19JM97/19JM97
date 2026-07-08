@@ -70,7 +70,7 @@ Passionate about building modern web applications, AI-powered tools, and respons
   <img src="./SVG%20ICON/upwork.svg" width="60" alt="Upwork">
   <img src="./SVG%20ICON/zendesk.svg" width="60" alt="Zendesk">
 </p>
----
+
 
 # 🚀 Featured Projects
 
