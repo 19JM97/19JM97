@@ -150,6 +150,20 @@ HTML • CSS • JavaScript
 
 <img src="https://img.icons8.com/fluency/96/portfolio.png" width="90">
 
+<td width="50%" valign="top" align="center">
+
+<img src="PROJECT%20LOGOS/noir-coffee-logo.png" width="120">
+
+### Noir Coffee
+
+Premium coffee shop landing page featuring elegant UI, smooth animations, responsive design, and a modern user experience focused on showcasing specialty coffee.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+</td>
+
 ### Personal Portfolio
 
 Personal portfolio highlighting frontend development, UI/UX design, and AI-powered web projects with a modern responsive design.
