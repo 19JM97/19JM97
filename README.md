@@ -1,3 +1,81 @@
+<h1 align="center">
+Hi 👋, I'm <span style="color:#00C4FF;">Mark Razon</span>
+</h1>
+
+<h3 align="center">
+Frontend Developer • UI/UX Designer • AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI%2FUX+Designer;AI+Enthusiast;Building+Practical+Solutions;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+Passionate about building modern web applications, AI-powered tools, and responsive user experiences that solve real-world problems.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+💼 Frontend Developer with a background in Technical Support and customer-focused problem solving.
+
+🌐 Passionate about building responsive web applications, Chrome extensions, and modern user interfaces.
+
+🤖 Leveraging AI tools to accelerate development, improve productivity, and streamline workflows.
+
+🚀 Continuously learning modern web technologies, UI/UX design, and software engineering best practices.
+
+🎯 Dedicated to creating practical, secure, and user-friendly digital solutions.
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<b>Frontend</b><br><br>
+  <img src="./SVG%20ICON/html5-icon.svg" width="60" alt="HTML5">
+  <img src="./SVG%20ICON/CSS3_logo.svg" width="60" alt="CSS3">
+  <img src="./SVG%20ICON/javascript.svg" width="60" alt="JavaScript">
+  <img src="./SVG%20ICON/tailwind.svg" width="60" alt="Tailwind CSS">
+</p>
+
+<p align="center">
+<b>Development Tools</b><br><br>
+  <img src="./SVG%20ICON/git-scm-icon.svg" width="60" alt="Git">
+  <img src="./SVG%20ICON/github.svg" width="60" alt="GitHub">
+  <img src="./SVG%20ICON/vscode.svg" width="60" alt="VS Code">
+  <img src="./SVG%20ICON/cursor.svg" width="60" alt="Cursor">
+  <img src="./SVG%20ICON/chrome.svg" width="60" alt="Chrome">
+</p>
+
+<p align="center">
+<b>AI Tools</b><br><br>
+  <img src="./SVG%20ICON/ChatGPT-Logo.svg" width="60" alt="ChatGPT">
+  <img src="./SVG%20ICON/claude-ai.svg" width="60" alt="Claude">
+  <img src="./SVG%20ICON/google-gemini.svg" width="60" alt="Gemini">
+  <img src="./SVG%20ICON/grok.svg" width="60" alt="Grok">
+  <img src="./SVG%20ICON/Suno.svg" width="60" alt="Suno">
+</p>
+
+<p align="center">
+<b>Design Tools</b><br><br>
+  <img src="./SVG%20ICON/Figma.svg" width="60" alt="Figma">
+  <img src="./SVG%20ICON/canva-icon.svg" width="60" alt="Canva">
+</p>
+
+<p align="center">
+<b>Productivity</b><br><br>
+  <img src="./SVG%20ICON/microsoft-office.svg" width="60" alt="Microsoft Office">
+  <img src="./SVG%20ICON/discord.svg" width="60" alt="Discord">
+  <img src="./SVG%20ICON/trello-icon.svg" width="60" alt="Trello">
+</p>
+
+<p align="center">
+<b>Platforms</b><br><br>
+  <img src="./SVG%20ICON/netlify.svg" width="60" alt="Netlify">
+  <img src="./SVG%20ICON/upwork.svg" width="60" alt="Upwork">
+  <img src="./SVG%20ICON/zendesk.svg" width="60" alt="Zendesk">
+</p>
+
 # 🚀 Featured Projects
 
 <table>
@@ -73,7 +151,7 @@ HTML • CSS • JavaScript
 
 ### Noir Coffee
 
-Premium coffee shop landing page featuring elegant UI, smooth animations, responsive design, and a modern user experience.
+Premium coffee shop landing page crafted with a modern, elegant interface, smooth animations, responsive design, and an immersive user experience that showcases specialty coffee and brand identity.
 
 **Tech Stack**
 
@@ -98,3 +176,9 @@ JavaScript • Chrome Extension API
 </tr>
 
 </table>
+
+---
+
+⭐ Thanks for visiting my profile!
+
+Let's build something amazing together.
