@@ -147,9 +147,9 @@ HTML • CSS • JavaScript
 
 <td width="50%" valign="top" align="center">
 
-<img src="PROJECT%20LOGOS/Vellix-logo.png" width="120">
+<img src="PROJECT%20LOGOS/velix-logo.png" width="120">
 
-### Vellix
+### Velix
 
 Modern AI-powered productivity platform designed to streamline workflows, enhance creativity, and provide smart digital solutions through an intuitive user experience.
 
