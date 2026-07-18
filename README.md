@@ -147,6 +147,20 @@ HTML • CSS • JavaScript
 
 <td width="50%" valign="top" align="center">
 
+<img src="PROJECT%20LOGOS/Vellix-logo.png" width="120">
+
+### Vellix
+
+Modern AI-powered productivity platform designed to streamline workflows, enhance creativity, and provide smart digital solutions through an intuitive user experience.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • AI Integration
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
 <img src="PROJECT%20LOGOS/noir-coffee-logo.png" width="120">
 
 ### Noir Coffee
@@ -158,6 +172,10 @@ Premium coffee shop landing page crafted with a modern, elegant interface, smoot
 HTML • CSS • JavaScript
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top" align="center">
 
@@ -180,3 +198,5 @@ JavaScript • Chrome Extension API
 ---
 
 ⭐ Thanks for visiting my profile!
+
+Let's build something amazing together.
