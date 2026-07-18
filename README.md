@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
 Hi 👋, I'm <span style="color:#00C4FF;">Mark Razon</span>
 </h1>
@@ -176,35 +175,8 @@ JavaScript • Chrome Extension API
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top" align="center">
-
-<img src="PROJECT%20LOGOS/velix-logo.png" width="120">
-
-### Velix
-
-A modern personal finance dashboard that helps users manage income, expenses, budgets, and financial insights through a clean SaaS-inspired interface. Built with Vanilla JavaScript and designed for a production-quality experience.
-
-**Tech Stack**
-
-HTML • CSS • Vanilla JavaScript • Chart.js • Local Storage • CSV Export
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-&nbsp;
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
-Let's build something amazing together.
-```
